@@ -1,3 +1,4 @@
 create table http_monitoring (
-  ID int NOT NULL AUTO_INCREMENT
+  id int NOT NULL AUTO_INCREMENT,
+  url varchar(255) NOT NULL
 );

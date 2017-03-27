@@ -1,3 +1,3 @@
-create table potato (
- id varchar(255)
+create table http_monitoring (
+  ID int NOT NULL AUTO_INCREMENT
 );
